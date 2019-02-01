@@ -2,7 +2,7 @@
 
 In the play "As you like it" Shakespeare informed us that "All the world's a stage". The soliloquy subsequently runs through the seven ages of man<sup>[1](#myfootnote1)</sup>.
 
-Today it feels that "All the word's a screen". Life is more akin to a fast-paced, jump-cut movie than a slow, linear play. It is easy to get confused, overwhelmed or lost.
+Today it feels that "All the world's a screen". Life is more akin to a fast-paced, jump-cut movie than a slow, linear play. It is easy to get confused, overwhelmed or lost.
 
 Abraham Maslow<sup>[2](#myfootnote2)</sup> the psychologist has an eponymous model that lists a hierarchy of needs.
 
@@ -15,7 +15,7 @@ Mashing Shakespeare's breadth and Maslow's depth lets us stand on their shoulder
 
 Here is one I made earlier.
 
-![alt text](./assets/mas-u-waves.png "Shakespeare & Maslow & Waves mash")
+![alt text](./assets/masyoulikeit.png "Shakespeare & Maslow & Waves mash")
 
 I am, like Maslow, a middle aged white male. I have added in what I recall as the predominant brain wave types for the stations in life that I have passed - and what I anticipate will come. Will I go gently or rage, rage against the dying of the light<sup>[3](#myfootnote3)</sup>  or perhaps wear purple<sup>[4](#myfootnote4)</sup> before the final act.
 
@@ -32,8 +32,8 @@ It you want to roll your own version <a href="https://comscientia.com/blocs/_blo
 #### Foot notes
 <a name="myfootnote1">1</a>: Soliloquy <a href="https://www.poets.org/poetsorg/poem/you-it-act-ii-scene-vii-all-worlds-stage" target="_blank">Seven Ages </a>
 
-<a name="myfootnote1">2</a>: Ivan Maslow on <a href="https://en.wikipedia.org/wiki/Abraham_Maslow" target="_blank">wikipedia</a>
+<a name="myfootnote2">2</a>: Ivan Maslow on <a href="https://en.wikipedia.org/wiki/Abraham_Maslow" target="_blank">wikipedia</a>
 
-<a name="myfootnote1">3</a>: Dylan Thomas reads <a href="https://www.youtube.com/watch?v=1mRec3VbH3w" target="_blank">Do not go gentle into that good night</a>
+<a name="myfootnote3">3</a>: Dylan Thomas reads <a href="https://www.youtube.com/watch?v=1mRec3VbH3w" target="_blank">Do not go gentle into that good night</a>
 
-<a name="myfootnote1">4</a>: Jenny Joseph reads <a href="https://www.youtube.com/watch?v=8cACbzanitg" target="_blank">Warning</a>
+<a name="myfootnote4">4</a>: Jenny Joseph reads <a href="https://www.youtube.com/watch?v=8cACbzanitg" target="_blank">Warning</a>

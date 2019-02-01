@@ -7,6 +7,7 @@ Beats are the pauses in dialogue or actions on plays.
 <img src="./assets/beat-sheet.png" alt="Beat Sheets"/>
 
 Drama can be played out following several methods
+
 1. Disney
 2. Soap Opera
 3. Life affirming

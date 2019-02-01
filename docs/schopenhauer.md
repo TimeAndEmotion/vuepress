@@ -1,6 +1,6 @@
 # Aesthetics
 
-Schopennhauer<sup>[1](#myfootnote1)</sup> listed the aesthetics below:
+Schopenhauer<sup>[1](#myfootnote1)</sup> listed the aesthetics below:
 
 1. Music
 2. Sculpture and Art

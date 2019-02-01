@@ -2,9 +2,13 @@
 
 Current ideas of how brains really operate and the models we use is changing rapidly.
 
-The reptile, mammal, human model has been dropped as has the creative right/logical left.
+The reptile, mammal, human or triune model has been dropped.
+![alt text](./assets/triune-brain-graphic.png "Tru=iune")
 
-The connectome, brain waves and polyvagalism are on trend.
+So has the creative right/logical left.
+![alt text](./assets/left-right-brain.jpg "Left Right")
+
+The connectome, brain waves, binding and polyvagalism are on trend.
 
 ![alt text](./assets/connectome.png "Connectome")
 

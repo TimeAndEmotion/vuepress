@@ -3,31 +3,62 @@ module.exports = {
   base: '/blocs/_blog/',
   themeConfig: {
     sidebar: [
-      '/climate-change',
-      '/BAFort',
-      '/Leverage',
-      '/integration',
-      '/psychological-contract',
-      '/mas-you-like-it',
-      '/brain-model-surgery',
-      '/brain-waves',
-      '/schopenhauer',
-      '/narrative-arcs',
-      '/dramatic-arcs',
-      '/three-methods',
-      '/acting',
-      '/direction',
-      '/tenets',
-      '/wokflow',
-      '/lean-scenes',
-      '/kool-aid-agile-test',
-      '/shape-of-things-to-come',
-      '/sddv',
-      '/sddv-1',
-      './suzuki-training.md',
-      '/value-stream-blueprint',
-      'A4#',
+      {
+        title: 'Climate',
+        collapsable: true,
+        children: [
+          '/climate-change',
+          '/BAFort',
+          '/Leverage',
+          '/integration',
+        ],
+      },
+      {
+        title: 'Brain model surgery',
+        collapsable: true,
+        children: [
+          '/brain-model-surgery',
+          '/new-model-brainy',
+          '/polyvagal',
+          '/brain-waves',
+          '/psychological-contract',
+          '/mas-you-like-it',
+        ]
+      },
+      {
+        title: 'Aesthetics for commerce',
+        collapsable: true,
+        children: [
+          '/schopenhauer',
+          '/narrative-arcs',
+          '/dramatic-arcs',
+          '/three-methods',
+          '/acting',
+          '/direction',
+          '/gravitas',
+          '/tenets',
+          '/training-for-scale',
+          '/wokflow',
+          '/groan-up',
+          '/kool-aid-agile-test',
+          '/lean-scenes',
+        ]
+      },
+      {
+        title: 'Value Driven Design',
+        collapsable: true,
+        children: [
+          '/shape-of-things-to-come',
+          '/sddv',
+          '/sddv-1',
+          './suzuki-training.md',
+          './team-tightness',
+          '/value-stream-blueprint',
+          'A4',
+          '/a-star'
+        ]
       // '/FluidArchitecture',
+      }
 
     ]
   }
