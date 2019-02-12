@@ -1,6 +1,6 @@
 # SALVe Linear
 
-Scan Design Deliver Value
+Scan Analyse Lean Value
 
 Value driven design starts from the Scan. 
 
