@@ -78,4 +78,4 @@ Marginal gains can be scaled across the teams. It is low risk and compatible wit
 
 <a name="myfootnote2">2</a>: Bessel Van Der Kolk <a href="https://www.amazon.co.uk/Body-Keeps-Score-Transformation-Trauma-ebook/dp/B00IICN1F8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1546007758&sr=1-1&keywords=van+der+kolk" target="_blank">The Body Keeps the Score</a>
 
-<a name="myfootnote3">3</a>: Burnett & Moore <a href="https://www.amazon.co.uk/Creative-Climate-Change-innovation-facilitators-ebook/dp/B00MDH1SLS target="_blank">Creative Climate Change</a>
+<a name="myfootnote3">3</a>: Burnett & Moore <a href="https://www.amazon.co.uk/Creative-Climate-Change-innovation-facilitators-ebook/dp/B00MDH1SLS" target="_blank">Creative Climate Change</a>

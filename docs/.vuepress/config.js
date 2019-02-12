@@ -17,10 +17,10 @@ module.exports = {
         title: 'SALVe',
         collapsable: true,
         children: [
-          '/estimation',
           '/shape-of-things-to-come',
           '/sddv',
           '/sddv-1',
+          '/estimation',
           './suzuki-training.md',
           './team-tightness',
           '/value-stream-blueprint',
