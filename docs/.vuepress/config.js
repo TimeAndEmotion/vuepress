@@ -7,11 +7,27 @@ module.exports = {
         title: 'Climate',
         collapsable: true,
         children: [
-          '/climate-change',
+          './senge',
           '/BAFort',
-          '/Leverage',
+          '/climate-change',
           '/integration',
         ],
+      },
+      {
+        title: 'SALVe',
+        collapsable: true,
+        children: [
+          '/estimation',
+          '/shape-of-things-to-come',
+          '/sddv',
+          '/sddv-1',
+          './suzuki-training.md',
+          './team-tightness',
+          '/value-stream-blueprint',
+          'A4',
+          '/a-star'
+        ]
+      // '/FluidArchitecture',
       },
       {
         title: 'Brain model surgery',
@@ -23,10 +39,12 @@ module.exports = {
           '/brain-waves',
           '/psychological-contract',
           '/mas-you-like-it',
+          '/mas-you-dont-like-it',
+          '/dementia',
         ]
       },
       {
-        title: 'Aesthetics for commerce',
+        title: 'Commercial aesthetics',
         collapsable: true,
         children: [
           '/schopenhauer',
@@ -43,23 +61,7 @@ module.exports = {
           '/kool-aid-agile-test',
           '/lean-scenes',
         ]
-      },
-      {
-        title: 'Value Driven Design',
-        collapsable: true,
-        children: [
-          '/shape-of-things-to-come',
-          '/sddv',
-          '/sddv-1',
-          './suzuki-training.md',
-          './team-tightness',
-          '/value-stream-blueprint',
-          'A4',
-          '/a-star'
-        ]
-      // '/FluidArchitecture',
       }
-
     ]
   }
 }
